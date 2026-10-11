@@ -1,6 +1,6 @@
 # dfriend releases
 
-Installers for **dfriend**, the desktop app for LPG distributorships by Zuper Tech.
+Installers for **dfriend**, the desktop app for LPG distributorships by dfriend solutions.
 
 ## Download
 
@@ -19,4 +19,4 @@ This repository holds only the installers and the update information file
 (`latest.json`) that dfriend reads. The application's source code is not
 published here.
 
-A licence is required to use dfriend without a watermark. Contact Zuper Tech.
+A licence is required to use dfriend without a watermark. Contact dfriend solutions at dfriend.app@gmail.com.
